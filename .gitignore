@@ -1,0 +1,4 @@
+.settings/
+*.7z
+bin/
+old/
