@@ -125,4 +125,6 @@ Aplicación [Conversor.jar](./target/Conversor.jar)
   java -jar Conversor.jar ayuda
   ```
 
+  #### Creditos, mejoras y adaptaciones a partir de:
+
 
