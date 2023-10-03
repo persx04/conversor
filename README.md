@@ -127,4 +127,4 @@ Aplicación [Conversor.jar](./target/Conversor.jar)
 
   ## Creditos, mejoras y adaptaciones a partir de:
 
-[devfzn](https://gitea.kickto.net/devfzn/desafio_conversor/src/branch/master) 
+[devfzn]([https://gitea.kickto.net/devfzn/desafio_conversor/src/branch/master]) 
